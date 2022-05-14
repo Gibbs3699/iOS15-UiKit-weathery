@@ -12,7 +12,6 @@
 		DCD482BA282E62AB00BF0E9F /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD482B9282E62AB00BF0E9F /* WeatherViewController.swift */; };
 		DCD482BF282E62AD00BF0E9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCD482BE282E62AD00BF0E9F /* Assets.xcassets */; };
 		DCD482C2282E62AD00BF0E9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCD482C0282E62AD00BF0E9F /* LaunchScreen.storyboard */; };
-		DCD482CE282E9BB200BF0E9F /* WeatherInfoModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD482CD282E9BB200BF0E9F /* WeatherInfoModalViewController.swift */; };
 		DCD482D0282E9E4800BF0E9F /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD482CF282E9E4800BF0E9F /* UIView+Extension.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +23,6 @@
 		DCD482BE282E62AD00BF0E9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCD482C1282E62AD00BF0E9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCD482C3282E62AD00BF0E9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DCD482CD282E9BB200BF0E9F /* WeatherInfoModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherInfoModalViewController.swift; sourceTree = "<group>"; };
 		DCD482CF282E9E4800BF0E9F /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,7 +59,6 @@
 				DCD482B5282E62AB00BF0E9F /* AppDelegate.swift */,
 				DCD482B7282E62AB00BF0E9F /* SceneDelegate.swift */,
 				DCD482B9282E62AB00BF0E9F /* WeatherViewController.swift */,
-				DCD482CD282E9BB200BF0E9F /* WeatherInfoModalViewController.swift */,
 				DCD482BE282E62AD00BF0E9F /* Assets.xcassets */,
 				DCD482C0282E62AD00BF0E9F /* LaunchScreen.storyboard */,
 				DCD482C3282E62AD00BF0E9F /* Info.plist */,
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCD482BA282E62AB00BF0E9F /* WeatherViewController.swift in Sources */,
-				DCD482CE282E9BB200BF0E9F /* WeatherInfoModalViewController.swift in Sources */,
 				DCD482B6282E62AB00BF0E9F /* AppDelegate.swift in Sources */,
 				DCD482D0282E9E4800BF0E9F /* UIView+Extension.swift in Sources */,
 				DCD482B8282E62AB00BF0E9F /* SceneDelegate.swift in Sources */,
